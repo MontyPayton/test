@@ -30,7 +30,10 @@ a {
     outline: 0;
     outline-offset: 0;
 }
-
+input{
+    height: 27px;
+    padding: 5px;
+}
 body{
     margin: 0;
     padding: 0;
