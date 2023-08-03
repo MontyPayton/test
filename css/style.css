@@ -3,8 +3,8 @@
 * {
     box-sizing: border-box;
     padding: 0px;
-	margin: 0px;
-	border: none;	
+    margin: 0px;
+    border: none;	
 }
 :root{
  --text-menu:#fff;
@@ -34,9 +34,7 @@ a {
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', sans-serif;
-
-      
+    font-family: 'Poppins', sans-serif;     
 }
 
 .container{
@@ -47,8 +45,9 @@ body{
 }
 .wrapper_header{
     background-image: url('../img/background_head.jpg');
-    background-position: left bottom; 
-    background-repeat: repeat-x;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     padding-bottom: 200px;
 }
 .logo img:hover{
