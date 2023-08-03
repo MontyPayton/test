@@ -34,6 +34,10 @@ input{
     height: 27px;
     padding: 5px;
 }
+textarea {
+    width: 178px;
+    padding:5px;
+}
 body{
     margin: 0;
     padding: 0;
