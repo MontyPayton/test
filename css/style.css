@@ -259,7 +259,7 @@ font-weight: 600;
 line-height: 40px;
 letter-spacing: 0em;
 color: var(--bg-dot);
-padding: 2rem 0;
+padding: 1.5rem 0;
 }
 .swiper-slide h3{
 font-size: 24px;
@@ -279,8 +279,9 @@ padding-top: 2rem;
     line-height: 40px;
     letter-spacing: 0em;
     color: var(--text-menu);
-
-
+}
+.swiper-slide img{
+width: 50px;
 }
 .swiper-button-prev,
 .swiper-button-next{
